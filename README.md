@@ -1,0 +1,2 @@
+# LeetCodeEasy
+LeetCode only easy
